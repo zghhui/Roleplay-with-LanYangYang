@@ -1,0 +1,9 @@
+[submodule "tools/get_data/extract-dialogue"]
+	path = tools/get_data/extract-dialogue
+	url = https://github.com/JimmyMa99/extract-dialogue.git
+[submodule "train/Xtuner"]
+	path = train/Xtuner
+	url = https://github.com/JimmyMa99/xtuner.git
+[submodule "deploy/Lmdeploy"]
+	path = deploy/Lmdeploy
+	url = https://github.com/JimmyMa99/lmdeploy.git
