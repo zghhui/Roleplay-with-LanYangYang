@@ -1,15 +1,6 @@
 # Roleplay-with-LanYangYang🐏 懒洋洋扮演
 
-<div align="center">
-![下载](https://cdn.zghhui.me/img/下载.jpg)
-
-
-
-  <div>&nbsp;</div>
-  <div align="center">
-  </div>
-
-</div>
+![](https://cdn.zghhui.me/img/下载.jpg)
 
 # 简介
 
